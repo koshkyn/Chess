@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/dev/CLionProjectst/chess/Figure.cpp
+Figure.h
+C:/dev/CLionProjectst/chess/Figure.h
+
+C:/dev/CLionProjectst/chess/Figure.h
+iostream
+-
+string
+-
+deque
+-
+vector
+-
+chrono
+-
+square.h
+C:/dev/CLionProjectst/chess/square.h
+
+C:/dev/CLionProjectst/chess/square.h
+
