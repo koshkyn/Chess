@@ -122,6 +122,33 @@ chess/fast:
 	$(MAKE) -f CMakeFiles\chess.dir\build.make CMakeFiles/chess.dir/build
 .PHONY : chess/fast
 
+Field.obj: Field.cpp.obj
+
+.PHONY : Field.obj
+
+# target to build an object file
+Field.cpp.obj:
+	$(MAKE) -f CMakeFiles\chess.dir\build.make CMakeFiles/chess.dir/Field.cpp.obj
+.PHONY : Field.cpp.obj
+
+Field.i: Field.cpp.i
+
+.PHONY : Field.i
+
+# target to preprocess a source file
+Field.cpp.i:
+	$(MAKE) -f CMakeFiles\chess.dir\build.make CMakeFiles/chess.dir/Field.cpp.i
+.PHONY : Field.cpp.i
+
+Field.s: Field.cpp.s
+
+.PHONY : Field.s
+
+# target to generate assembly for a file
+Field.cpp.s:
+	$(MAKE) -f CMakeFiles\chess.dir\build.make CMakeFiles/chess.dir/Field.cpp.s
+.PHONY : Field.cpp.s
+
 Figure.obj: Figure.cpp.obj
 
 .PHONY : Figure.obj
@@ -212,6 +239,9 @@ help:
 	@echo ... chess
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Field.obj
+	@echo ... Field.i
+	@echo ... Field.s
 	@echo ... Figure.obj
 	@echo ... Figure.i
 	@echo ... Figure.s

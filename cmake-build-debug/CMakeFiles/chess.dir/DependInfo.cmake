@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/dev/CLionProjectst/chess/Field.cpp" "C:/dev/CLionProjectst/chess/cmake-build-debug/CMakeFiles/chess.dir/Field.cpp.obj"
   "C:/dev/CLionProjectst/chess/Figure.cpp" "C:/dev/CLionProjectst/chess/cmake-build-debug/CMakeFiles/chess.dir/Figure.cpp.obj"
   "C:/dev/CLionProjectst/chess/main.cpp" "C:/dev/CLionProjectst/chess/cmake-build-debug/CMakeFiles/chess.dir/main.cpp.obj"
   "C:/dev/CLionProjectst/chess/square.cpp" "C:/dev/CLionProjectst/chess/cmake-build-debug/CMakeFiles/chess.dir/square.cpp.obj"

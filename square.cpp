@@ -12,5 +12,5 @@ void Square::SumX(int val) {
 void Square::SumY(int val) {
     y += val;
 }
-const int Square::GetX() {return x;}
-const int Square::GetY() {return y;}
+int Square::GetX() const {return x;}
+int Square::GetY() const {return y;}

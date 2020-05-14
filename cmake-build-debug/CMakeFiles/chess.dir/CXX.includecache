@@ -6,6 +6,14 @@
 
 #IncludeRegexTransform: 
 
+C:/dev/CLionProjectst/chess/Field.cpp
+Field.h
+C:/dev/CLionProjectst/chess/Field.h
+
+C:/dev/CLionProjectst/chess/Field.h
+Figure.h
+C:/dev/CLionProjectst/chess/Figure.h
+
 C:/dev/CLionProjectst/chess/Figure.cpp
 Figure.h
 C:/dev/CLionProjectst/chess/Figure.h
@@ -15,14 +23,24 @@ iostream
 -
 string
 -
-deque
+queue
 -
 vector
 -
 chrono
 -
+thread
+-
+random
+-
 square.h
 C:/dev/CLionProjectst/chess/square.h
+
+C:/dev/CLionProjectst/chess/main.cpp
+iostream
+-
+Field.h
+C:/dev/CLionProjectst/chess/Field.h
 
 C:/dev/CLionProjectst/chess/square.h
 

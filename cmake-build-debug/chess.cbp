@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/dev/CLionProjectst/chess/Field.cpp">
+			<Option target="chess"/>
+		</Unit>
+		<Unit filename="C:/dev/CLionProjectst/chess/Field.h">
+			<Option target="chess"/>
+		</Unit>
 		<Unit filename="C:/dev/CLionProjectst/chess/Figure.cpp">
 			<Option target="chess"/>
 		</Unit>

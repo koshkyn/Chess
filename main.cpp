@@ -1,11 +1,6 @@
 #include <iostream>
-#include <string>
-#include <deque>
-#include <vector>
-#include <chrono>
-#include <random>
 
-#include "Figure.h"
+#include "Field.h"
 
 
 int main() {
@@ -15,6 +10,6 @@ int main() {
     for(int i = 0; i < q; ++i) {
         f.AddFigure(0);
     }
-    f.PrintField();
+    f.StartMoving();
     return 0;
 }
